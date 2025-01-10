@@ -1,4 +1,4 @@
 # Marshall Hotalings portfolio 
 
-![Photo](IMG_7946.HEIC)
+![Photo](Marshall-Hotaling-portfolio/IMG_7946.HEIC)
 
